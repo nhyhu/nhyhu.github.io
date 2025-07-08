@@ -1,0 +1,185 @@
+﻿Date	Time	Severity	PID	TID	Function	Message
+08-07-2025	12:30:49.372	 INFO	 13900	  7152	DllMain	"DLL_PROCESS_ATTACH 18:39:44 11.4.2516.4"
+08-07-2025	12:30:49.374	 INFO	 13900	  7152	DllMain	"PROCESS ATTACHED"
+08-07-2025	12:30:49.375	 INFO	 13900	  6544	LateInitialization	"Intialization..."
+08-07-2025	12:30:49.376	 INFO	 13900	  6544	LoadDisplayDevicesName	"DisplayDevices : "
+08-07-2025	12:30:49.377	 INFO	 13900	  6544	LoadDisplayDevicesName	"\\.\DISPLAY1"
+08-07-2025	12:30:49.378	 INFO	 13900	  6544	LoadDisplayDevicesName	"\\.\DISPLAY2"
+08-07-2025	12:30:49.378	 INFO	 13900	  6544	LoadDisplayDevicesName	"\\.\DISPLAY3"
+08-07-2025	12:30:49.384	 INFO	 13900	  6544	LoadDisplayDevicesName	"\\.\DISPLAY4"
+08-07-2025	12:30:49.384	 INFO	 13900	  6544	LoadDisplayDevicesName	"\\.\DISPLAY5"
+08-07-2025	12:30:49.469	 INFO	 17616	 15000	DllMain	"DLL_PROCESS_ATTACH 18:39:44 11.4.2516.4"
+08-07-2025	12:30:49.470	 INFO	 17616	 15000	DllMain	"PROCESS ATTACHED"
+08-07-2025	12:30:49.471	 INFO	 17616	  4396	LateInitialization	"Intialization..."
+08-07-2025	12:30:49.472	 INFO	 17616	  4396	LoadDisplayDevicesName	"DisplayDevices : "
+08-07-2025	12:30:49.473	 INFO	 17616	  4396	LoadDisplayDevicesName	"\\.\DISPLAY1"
+08-07-2025	12:30:49.474	 INFO	 17616	  4396	LoadDisplayDevicesName	"\\.\DISPLAY2"
+08-07-2025	12:30:49.474	 INFO	 17616	  4396	LoadDisplayDevicesName	"\\.\DISPLAY3"
+08-07-2025	12:30:49.475	 INFO	 17616	  4396	LoadDisplayDevicesName	"\\.\DISPLAY4"
+08-07-2025	12:30:49.476	 INFO	 17616	  4396	LoadDisplayDevicesName	"\\.\DISPLAY5"
+08-07-2025	12:30:52.403	ERROR	 13900	  6544	LateInitialization	"std::exception caught = GetFileVersionInfoSizeW failed with 1813"
+08-07-2025	12:30:52.404	 INFO	 13900	  6544	LateInitialization	"Exe = C:\Users\nhu\AppData\Local\Programs\Git\usr\bin\sh.exe
+ProductName = 
+FileDescription = 
+ShadowFolder = %LOCALAPPDATA%\EndpointDLP\print-shadow
+ParsingMode = Hybrid
+DeletePrinterShadowFiles = 1
+PrinterUseDisplayDevicesList = 0
+EnablePrinterEscapeProcessing = 1
+EnableWatermarkForAll = 0
+MaxPrintPages = 4294967295
+GdiPlusToken = 4558265
+ExcludedEscapes = 4117, 37, 4118, 4115, 4121, "
+08-07-2025	12:30:52.405	 INFO	 13900	  6544	LateInitialization	"Intialization finished"
+08-07-2025	12:30:52.490	ERROR	 17616	  4396	LateInitialization	"std::exception caught = GetFileVersionInfoSizeW failed with 1813"
+08-07-2025	12:30:52.491	 INFO	 17616	  4396	LateInitialization	"Exe = C:\Users\nhu\AppData\Local\Programs\Git\usr\bin\sh.exe
+ProductName = 
+FileDescription = 
+ShadowFolder = %LOCALAPPDATA%\EndpointDLP\print-shadow
+ParsingMode = Hybrid
+DeletePrinterShadowFiles = 1
+PrinterUseDisplayDevicesList = 0
+EnablePrinterEscapeProcessing = 1
+EnableWatermarkForAll = 0
+MaxPrintPages = 4294967295
+GdiPlusToken = 4558359
+ExcludedEscapes = 4117, 37, 4118, 4115, 4121, "
+08-07-2025	12:30:52.492	 INFO	 17616	  4396	LateInitialization	"Intialization finished"
+08-07-2025	13:56:27.099	 INFO	  3940	  3364	DllMain	"DLL_PROCESS_ATTACH 18:39:44 11.4.2516.4"
+08-07-2025	13:56:27.100	 INFO	  3940	  3364	DllMain	"PROCESS ATTACHED"
+08-07-2025	13:56:27.101	 INFO	  3940	  7784	LateInitialization	"Intialization..."
+08-07-2025	13:56:27.101	 INFO	  3940	  7784	LoadDisplayDevicesName	"DisplayDevices : "
+08-07-2025	13:56:27.102	 INFO	  3940	  7784	LoadDisplayDevicesName	"\\.\DISPLAY1"
+08-07-2025	13:56:27.102	 INFO	  3940	  7784	LoadDisplayDevicesName	"\\.\DISPLAY2"
+08-07-2025	13:56:27.103	 INFO	  3940	  7784	LoadDisplayDevicesName	"\\.\DISPLAY3"
+08-07-2025	13:56:27.103	 INFO	  3940	  7784	LoadDisplayDevicesName	"\\.\DISPLAY4"
+08-07-2025	13:56:27.103	 INFO	  3940	  7784	LoadDisplayDevicesName	"\\.\DISPLAY5"
+08-07-2025	13:56:27.149	 INFO	 26172	  9512	DllMain	"DLL_PROCESS_ATTACH 18:39:44 11.4.2516.4"
+08-07-2025	13:56:27.150	 INFO	 26172	  9512	DllMain	"PROCESS ATTACHED"
+08-07-2025	13:56:27.151	 INFO	 26172	 17156	LateInitialization	"Intialization..."
+08-07-2025	13:56:27.151	 INFO	 26172	 17156	LoadDisplayDevicesName	"DisplayDevices : "
+08-07-2025	13:56:27.152	 INFO	 26172	 17156	LoadDisplayDevicesName	"\\.\DISPLAY1"
+08-07-2025	13:56:27.152	 INFO	 26172	 17156	LoadDisplayDevicesName	"\\.\DISPLAY2"
+08-07-2025	13:56:27.153	 INFO	 26172	 17156	LoadDisplayDevicesName	"\\.\DISPLAY3"
+08-07-2025	13:56:27.153	 INFO	 26172	 17156	LoadDisplayDevicesName	"\\.\DISPLAY4"
+08-07-2025	13:56:27.153	 INFO	 26172	 17156	LoadDisplayDevicesName	"\\.\DISPLAY5"
+08-07-2025	13:56:30.114	ERROR	  3940	  7784	LateInitialization	"std::exception caught = GetFileVersionInfoSizeW failed with 1813"
+08-07-2025	13:56:30.115	 INFO	  3940	  7784	LateInitialization	"Exe = C:\Users\nhu\AppData\Local\Programs\Git\usr\bin\sh.exe
+ProductName = 
+FileDescription = 
+ShadowFolder = %LOCALAPPDATA%\EndpointDLP\print-shadow
+ParsingMode = Hybrid
+DeletePrinterShadowFiles = 1
+PrinterUseDisplayDevicesList = 0
+EnablePrinterEscapeProcessing = 1
+EnableWatermarkForAll = 0
+MaxPrintPages = 4294967295
+GdiPlusToken = 9695984
+ExcludedEscapes = 4117, 37, 4118, 4115, 4121, "
+08-07-2025	13:56:30.115	 INFO	  3940	  7784	LateInitialization	"Intialization finished"
+08-07-2025	13:56:30.163	ERROR	 26172	 17156	LateInitialization	"std::exception caught = GetFileVersionInfoSizeW failed with 1813"
+08-07-2025	13:56:30.164	 INFO	 26172	 17156	LateInitialization	"Exe = C:\Users\nhu\AppData\Local\Programs\Git\usr\bin\sh.exe
+ProductName = 
+FileDescription = 
+ShadowFolder = %LOCALAPPDATA%\EndpointDLP\print-shadow
+ParsingMode = Hybrid
+DeletePrinterShadowFiles = 1
+PrinterUseDisplayDevicesList = 0
+EnablePrinterEscapeProcessing = 1
+EnableWatermarkForAll = 0
+MaxPrintPages = 4294967295
+GdiPlusToken = 9696031
+ExcludedEscapes = 4117, 37, 4118, 4115, 4121, "
+08-07-2025	13:56:30.164	 INFO	 26172	 17156	LateInitialization	"Intialization finished"
+08-07-2025	13:58:54.419	 INFO	  2776	 28172	DllMain	"DLL_PROCESS_ATTACH 18:39:44 11.4.2516.4"
+08-07-2025	13:58:54.420	 INFO	  2776	 28172	DllMain	"PROCESS ATTACHED"
+08-07-2025	13:58:54.420	 INFO	  2776	 16464	LateInitialization	"Intialization..."
+08-07-2025	13:58:54.421	 INFO	  2776	 16464	LoadDisplayDevicesName	"DisplayDevices : "
+08-07-2025	13:58:54.421	 INFO	  2776	 16464	LoadDisplayDevicesName	"\\.\DISPLAY1"
+08-07-2025	13:58:54.422	 INFO	  2776	 16464	LoadDisplayDevicesName	"\\.\DISPLAY2"
+08-07-2025	13:58:54.422	 INFO	  2776	 16464	LoadDisplayDevicesName	"\\.\DISPLAY3"
+08-07-2025	13:58:54.423	 INFO	  2776	 16464	LoadDisplayDevicesName	"\\.\DISPLAY4"
+08-07-2025	13:58:54.423	 INFO	  2776	 16464	LoadDisplayDevicesName	"\\.\DISPLAY5"
+08-07-2025	13:58:54.471	 INFO	 21388	 28248	DllMain	"DLL_PROCESS_ATTACH 18:39:44 11.4.2516.4"
+08-07-2025	13:58:54.472	 INFO	 21388	 28248	DllMain	"PROCESS ATTACHED"
+08-07-2025	13:58:54.473	 INFO	 21388	  7808	LateInitialization	"Intialization..."
+08-07-2025	13:58:54.473	 INFO	 21388	  7808	LoadDisplayDevicesName	"DisplayDevices : "
+08-07-2025	13:58:54.474	 INFO	 21388	  7808	LoadDisplayDevicesName	"\\.\DISPLAY1"
+08-07-2025	13:58:54.474	 INFO	 21388	  7808	LoadDisplayDevicesName	"\\.\DISPLAY2"
+08-07-2025	13:58:54.475	 INFO	 21388	  7808	LoadDisplayDevicesName	"\\.\DISPLAY3"
+08-07-2025	13:58:54.475	 INFO	 21388	  7808	LoadDisplayDevicesName	"\\.\DISPLAY4"
+08-07-2025	13:58:54.475	 INFO	 21388	  7808	LoadDisplayDevicesName	"\\.\DISPLAY5"
+08-07-2025	13:58:57.436	ERROR	  2776	 16464	LateInitialization	"std::exception caught = GetFileVersionInfoSizeW failed with 1813"
+08-07-2025	13:58:57.437	 INFO	  2776	 16464	LateInitialization	"Exe = C:\Users\nhu\AppData\Local\Programs\Git\usr\bin\sh.exe
+ProductName = 
+FileDescription = 
+ShadowFolder = %LOCALAPPDATA%\EndpointDLP\print-shadow
+ParsingMode = Hybrid
+DeletePrinterShadowFiles = 1
+PrinterUseDisplayDevicesList = 0
+EnablePrinterEscapeProcessing = 1
+EnableWatermarkForAll = 0
+MaxPrintPages = 4294967295
+GdiPlusToken = 9843312
+ExcludedEscapes = 4117, 37, 4118, 4115, 4121, "
+08-07-2025	13:58:57.437	 INFO	  2776	 16464	LateInitialization	"Intialization finished"
+08-07-2025	13:58:57.486	ERROR	 21388	  7808	LateInitialization	"std::exception caught = GetFileVersionInfoSizeW failed with 1813"
+08-07-2025	13:58:57.487	 INFO	 21388	  7808	LateInitialization	"Exe = C:\Users\nhu\AppData\Local\Programs\Git\usr\bin\sh.exe
+ProductName = 
+FileDescription = 
+ShadowFolder = %LOCALAPPDATA%\EndpointDLP\print-shadow
+ParsingMode = Hybrid
+DeletePrinterShadowFiles = 1
+PrinterUseDisplayDevicesList = 0
+EnablePrinterEscapeProcessing = 1
+EnableWatermarkForAll = 0
+MaxPrintPages = 4294967295
+GdiPlusToken = 9843359
+ExcludedEscapes = 4117, 37, 4118, 4115, 4121, "
+08-07-2025	13:58:57.487	 INFO	 21388	  7808	LateInitialization	"Intialization finished"
+08-07-2025	14:02:10.519	 INFO	 21440	 28012	DllMain	"DLL_PROCESS_ATTACH 18:39:44 11.4.2516.4"
+08-07-2025	14:02:10.520	 INFO	 21440	 28012	DllMain	"PROCESS ATTACHED"
+08-07-2025	14:02:10.520	 INFO	 21440	 27836	LateInitialization	"Intialization..."
+08-07-2025	14:02:10.521	 INFO	 21440	 27836	LoadDisplayDevicesName	"DisplayDevices : "
+08-07-2025	14:02:10.521	 INFO	 21440	 27836	LoadDisplayDevicesName	"\\.\DISPLAY1"
+08-07-2025	14:02:10.521	 INFO	 21440	 27836	LoadDisplayDevicesName	"\\.\DISPLAY2"
+08-07-2025	14:02:10.522	 INFO	 21440	 27836	LoadDisplayDevicesName	"\\.\DISPLAY3"
+08-07-2025	14:02:10.522	 INFO	 21440	 27836	LoadDisplayDevicesName	"\\.\DISPLAY4"
+08-07-2025	14:02:10.522	 INFO	 21440	 27836	LoadDisplayDevicesName	"\\.\DISPLAY5"
+08-07-2025	14:02:10.571	 INFO	  7008	 21912	DllMain	"DLL_PROCESS_ATTACH 18:39:44 11.4.2516.4"
+08-07-2025	14:02:10.572	 INFO	  7008	 21912	DllMain	"PROCESS ATTACHED"
+08-07-2025	14:02:10.572	 INFO	  7008	 23992	LateInitialization	"Intialization..."
+08-07-2025	14:02:10.573	 INFO	  7008	 23992	LoadDisplayDevicesName	"DisplayDevices : "
+08-07-2025	14:02:10.574	 INFO	  7008	 23992	LoadDisplayDevicesName	"\\.\DISPLAY1"
+08-07-2025	14:02:10.574	 INFO	  7008	 23992	LoadDisplayDevicesName	"\\.\DISPLAY2"
+08-07-2025	14:02:10.575	 INFO	  7008	 23992	LoadDisplayDevicesName	"\\.\DISPLAY3"
+08-07-2025	14:02:10.575	 INFO	  7008	 23992	LoadDisplayDevicesName	"\\.\DISPLAY4"
+08-07-2025	14:02:10.576	 INFO	  7008	 23992	LoadDisplayDevicesName	"\\.\DISPLAY5"
+08-07-2025	14:02:13.534	ERROR	 21440	 27836	LateInitialization	"std::exception caught = GetFileVersionInfoSizeW failed with 1813"
+08-07-2025	14:02:13.534	 INFO	 21440	 27836	LateInitialization	"Exe = C:\Users\nhu\AppData\Local\Programs\Git\usr\bin\sh.exe
+ProductName = 
+FileDescription = 
+ShadowFolder = %LOCALAPPDATA%\EndpointDLP\print-shadow
+ParsingMode = Hybrid
+DeletePrinterShadowFiles = 1
+PrinterUseDisplayDevicesList = 0
+EnablePrinterEscapeProcessing = 1
+EnableWatermarkForAll = 0
+MaxPrintPages = 4294967295
+GdiPlusToken = 10039406
+ExcludedEscapes = 4117, 37, 4118, 4115, 4121, "
+08-07-2025	14:02:13.535	 INFO	 21440	 27836	LateInitialization	"Intialization finished"
+08-07-2025	14:02:13.583	ERROR	  7008	 23992	LateInitialization	"std::exception caught = GetFileVersionInfoSizeW failed with 1813"
+08-07-2025	14:02:13.584	 INFO	  7008	 23992	LateInitialization	"Exe = C:\Users\nhu\AppData\Local\Programs\Git\usr\bin\sh.exe
+ProductName = 
+FileDescription = 
+ShadowFolder = %LOCALAPPDATA%\EndpointDLP\print-shadow
+ParsingMode = Hybrid
+DeletePrinterShadowFiles = 1
+PrinterUseDisplayDevicesList = 0
+EnablePrinterEscapeProcessing = 1
+EnableWatermarkForAll = 0
+MaxPrintPages = 4294967295
+GdiPlusToken = 10039453
+ExcludedEscapes = 4117, 37, 4118, 4115, 4121, "
+08-07-2025	14:02:13.584	 INFO	  7008	 23992	LateInitialization	"Intialization finished"
